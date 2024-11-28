@@ -98,6 +98,7 @@ endif
 LIB_API_HEADER_FILES = hal/inc/hal_time.h 
 LIB_API_HEADER_FILES += hal/inc/hal_thread.h
 LIB_API_HEADER_FILES += hal/inc/hal_filesystem.h
+LIB_API_HEADER_FILES += hal/inc/tls_ciphers.h
 LIB_API_HEADER_FILES += hal/inc/tls_config.h
 LIB_API_HEADER_FILES += hal/inc/lib_memory.h
 LIB_API_HEADER_FILES += hal/inc/hal_base.h
